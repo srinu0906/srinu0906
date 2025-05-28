@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Srinu Vakada
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning MERN Stacck
-- 📫 How to reach me LinkedIn
+- 📫 Reach me on LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
