@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Srinu Vakada
 
-Welcome to my GitHub! I'm a full-stack developer who loves turning ideas into real, usable web applications.
+Welcome to my GitHub Profile! I'm a full-stack developer who loves turning ideas into real, usable web applications.
 
----
+<br/><br/>
 
 ## 🚀 About Me
 
@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a full-stack developer who loves turning ideas into re
 - 🤝 Open to collaborations, learning opportunities, and open-source contributions
 - 🎯 Goal: Build meaningful products that solve real-world problems
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm a full-stack developer who loves turning ideas into re
 
 
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -56,7 +56,7 @@ Welcome to my GitHub! I'm a full-stack developer who loves turning ideas into re
 
 
 
----
+<br/>
 
 ## 📫 Let's Connect
 
@@ -65,7 +65,7 @@ Welcome to my GitHub! I'm a full-stack developer who loves turning ideas into re
 - ![HackerRank](https://img.shields.io/badge/--000000?logo=hackerrank&logoColor=2EC866&style=flat) [HackerRank](https://www.hackerrank.com/profile/vakadasrinu24)
 
 
----
+
 
 
 
