@@ -2,7 +2,8 @@
 
 Welcome to my GitHub Profile! I'm a full-stack developer who loves turning ideas into real, usable web applications.
 
-<br/><br/>
+<br/>
+<hr/>
 
 ## 🚀 About Me
 
@@ -13,6 +14,7 @@ Welcome to my GitHub Profile! I'm a full-stack developer who loves turning ideas
 - 🎯 Goal: Build meaningful products that solve real-world problems
 
 <br/>
+<hr/>
 
 ## 🛠️ Tech Stack
 
@@ -45,6 +47,7 @@ Welcome to my GitHub Profile! I'm a full-stack developer who loves turning ideas
 
 
 <br/>
+<hr/>
 
 ## 📊 GitHub Stats
 
@@ -57,6 +60,7 @@ Welcome to my GitHub Profile! I'm a full-stack developer who loves turning ideas
 
 
 <br/>
+<hr/>
 
 ## 📫 Let's Connect
 
