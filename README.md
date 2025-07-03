@@ -16,30 +16,31 @@ Welcome to my GitHub! I'm a full-stack developer who loves turning ideas into re
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?logo=javascript&logoColor=F7DF1E&style=flat)
-- ![Python](https://img.shields.io/badge/-Python-000000?logo=python&logoColor=3776AB&style=flat)
-- ![Java](https://img.shields.io/badge/-Java-000000?logo=openjdk&logoColor=ED8B00&style=flat)
+### 💻 Languages  
+&emsp;&emsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?logo=javascript&logoColor=F7DF1E&style=flat) 
+&emsp; ![Python](https://img.shields.io/badge/-Python-000000?logo=python&logoColor=3776AB&style=flat) 
+&emsp; ![Java](https://img.shields.io/badge/-Java-000000?logo=openjdk&logoColor=ED8B00&style=flat)
+
 
 ### 🎨 Frontend
-- ![React](https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB&style=flat)
-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?logo=html5&logoColor=E34F26&style=flat)
-- ![CSS3](https://img.shields.io/badge/-CSS3-000000?logo=css&logoColor=1572B6&style=flat)
+&emsp;&emsp; ![React](https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB&style=flat)
+&emsp; ![HTML5](https://img.shields.io/badge/-HTML5-000000?logo=html5&logoColor=E34F26&style=flat)
+&emsp; ![CSS3](https://img.shields.io/badge/-CSS3-000000?logo=css&logoColor=1572B6&style=flat)
 
 ### 🛠️ Backend
-- ![Node.js](https://img.shields.io/badge/-Node.js-000000?logo=node.js&logoColor=339933&style=flat)
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-- ![PHP](https://img.shields.io/badge/-PHP-000000?logo=php&logoColor=777BB4&style=flat)
+&emsp;&emsp; ![Node.js](https://img.shields.io/badge/-Node.js-000000?logo=node.js&logoColor=339933&style=flat)
+&emsp; ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+&emsp; ![PHP](https://img.shields.io/badge/-PHP-000000?logo=php&logoColor=777BB4&style=flat)
 
 ### 🗄️ Databases
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?logo=mongodb&logoColor=47A248&style=flat)
-- ![MySQL](https://img.shields.io/badge/-MySQL-000000?logo=mysql&logoColor=4479A1&style=flat)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql&logoColor=336791&style=flat)
+&emsp;&emsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?logo=mongodb&logoColor=47A248&style=flat)
+&emsp; ![MySQL](https://img.shields.io/badge/-MySQL-000000?logo=mysql&logoColor=4479A1&style=flat)
+&emsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql&logoColor=336791&style=flat)
 
 ### ⚙️ Dev Tools & Services
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?logo=htmx&logoColor=007ACC&style=flat)
-- ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=F05032&style=flat)
-- ![GitHub](https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white&style=flat)
+&emsp;&emsp; ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?logo=htmx&logoColor=007ACC&style=flat)
+&emsp; ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=F05032&style=flat)
+&emsp; ![GitHub](https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white&style=flat)
 
 
 
