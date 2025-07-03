@@ -48,10 +48,10 @@ Welcome to my GitHub! I'm a full-stack developer who loves turning ideas into re
 
 ## 📊 GitHub Stats
 
-![Srinu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinu0906&show_icons=true&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srinu0906&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinu0906&layout=compact&theme=github_dark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=srinu0906&theme=radical&no-frame=true&margin-w=5)
+![Srinu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinu0906&show_icons=true&theme=github_dark)<br/><br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srinu0906&theme=github_dark)<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinu0906&layout=compact&theme=github_dark)<br/><br/>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=srinu0906&theme=radical&no-frame=true&margin-w=5)<br/><br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=srinu0906&label=Profile%20views&color=blueviolet&style=flat)
 
 
