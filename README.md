@@ -1,8 +1,71 @@
-- 👋 Hi, I’m Srinu Vakada
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning MERN Stacck
-- 📫 Reach me on LinkedIn https://www.linkedin.com/in/srinu-vakada-84b690275/
-- 😄 Pronouns: He/Him
+# 👋 Hi, I'm Srinu Vakada
+
+Welcome to my GitHub! I'm a full-stack developer who loves turning ideas into real, usable web applications.
+
+---
+
+## 🚀 About Me
+
+- 🔧 MERN Stack Developer | Passionate about building scalable web platforms
+- 💻 Currently working on **OrderOnTheGo** – a food ordering system built with the MERN stack
+- 🌐 Fascinated by clean UI/UX, backend logic, and data architecture
+- 🤝 Open to collaborations, learning opportunities, and open-source contributions
+- 🎯 Goal: Build meaningful products that solve real-world problems
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?logo=javascript&logoColor=F7DF1E&style=flat)
+- ![Python](https://img.shields.io/badge/-Python-000000?logo=python&logoColor=3776AB&style=flat)
+- ![Java](https://img.shields.io/badge/-Java-000000?logo=openjdk&logoColor=ED8B00&style=flat)
+
+### 🎨 Frontend
+- ![React](https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB&style=flat)
+- ![HTML5](https://img.shields.io/badge/-HTML5-000000?logo=html5&logoColor=E34F26&style=flat)
+- ![CSS3](https://img.shields.io/badge/-CSS3-000000?logo=css&logoColor=1572B6&style=flat)
+
+### 🛠️ Backend
+- ![Node.js](https://img.shields.io/badge/-Node.js-000000?logo=node.js&logoColor=339933&style=flat)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+- ![PHP](https://img.shields.io/badge/-PHP-000000?logo=php&logoColor=777BB4&style=flat)
+
+### 🗄️ Databases
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?logo=mongodb&logoColor=47A248&style=flat)
+- ![MySQL](https://img.shields.io/badge/-MySQL-000000?logo=mysql&logoColor=4479A1&style=flat)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql&logoColor=336791&style=flat)
+
+### ⚙️ Dev Tools & Services
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?logo=htmx&logoColor=007ACC&style=flat)
+- ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=F05032&style=flat)
+- ![GitHub](https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white&style=flat)
+
+
+
+---
+
+## 📊 GitHub Stats
+
+![Srinu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinu0906&show_icons=true&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srinu0906&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinu0906&layout=compact&theme=github_dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=srinu0906&theme=radical&no-frame=true&margin-w=5)
+![Profile Views](https://komarev.com/ghpvc/?username=srinu0906&label=Profile%20views&color=blueviolet&style=flat)
+
+
+
+---
+
+## 📫 Let's Connect
+
+- ![Email](https://img.shields.io/badge/--000000?logo=gmail&logoColor=white&style=flat) [Gmail](mailto:srinuvakada24@email.com)
+- ![LinkedIn](https://img.shields.io/badge/--000000?logo=inspire&logoColor=0A66C2&style=flat) [LinkedIn](https://www.linkedin.com/in/srinu-vakada-84b690275/)
+- ![HackerRank](https://img.shields.io/badge/--000000?logo=hackerrank&logoColor=2EC866&style=flat) [HackerRank](https://www.hackerrank.com/profile/vakadasrinu24)
+
+
+---
+
 
 
 <!---
