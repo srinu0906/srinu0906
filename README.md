@@ -65,7 +65,7 @@ Welcome to my GitHub Profile! I'm a full-stack developer who loves turning ideas
 
 ## 📫 Let's Connect
 
-- ![Email](https://img.shields.io/badge/--000000?logo=gmail&logoColor=white&style=flat) [Gmail](mailto:srinuvakada24@email.com)
+- ![Email](https://img.shields.io/badge/--000000?logo=gmail&logoColor=white&style=flat) [Gmail](mailto:srinuvakada24@gmail.com)
 - ![LinkedIn](https://img.shields.io/badge/--000000?logo=inspire&logoColor=0A66C2&style=flat) [LinkedIn](https://www.linkedin.com/in/srinu-vakada-84b690275/)
 - ![HackerRank](https://img.shields.io/badge/--000000?logo=hackerrank&logoColor=2EC866&style=flat) [HackerRank](https://www.hackerrank.com/profile/vakadasrinu24)
 
