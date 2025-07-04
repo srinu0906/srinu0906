@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srinu Vakada
 
-Welcome to my GitHub Profile! I'm a full-stack developer who loves turning ideas into real, usable web applications.
+Welcome to my GitHub Profile! I'm a full-stack developer who loves turning ideas into real, usable web applications and a CSE undergraduate at SR Gudlavalleru Enginnering College.
 
 <br/>
 <hr/>
